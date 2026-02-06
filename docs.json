@@ -4,8 +4,8 @@
   "name": "Return Infinity Documentation",
   "colors": {
     "primary": "#F7CA54",
-    "light": "#F7EA64",
-    "dark": "#E7BA44"
+    "light": "#F7CA54",
+    "dark": "#F7CA54"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -84,8 +84,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/Return Infinity Logo With Text.png",
+    "dark": "/logo/Return Infinity Logo With Text.png"
   },
   "navbar": {
     "links": [
